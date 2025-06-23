@@ -27,3 +27,15 @@ Stay tuned for Milestone 2, where we dive into real backend development! 💻✨
 ---
 
 Made with 💜 by a passionate Kalvian.
+## 🧩 Milestone 3: Project Setup for Backend
+
+In this milestone, we began laying the foundation for the backend of our e-commerce application.
+
+### Key Accomplishments:
+- ✅ Organized backend folder structure (`controllers`, `models`, `routes`, etc.)
+- ✅ Created a basic Express.js server
+- ✅ Connected to MongoDB using Mongoose
+- ✅ Implemented initial error-handling middleware
+- ✅ Added CORS and JSON middleware for incoming requests
+
+We are now ready to build API endpoints and handle data storage securely!
