@@ -51,3 +51,14 @@ In this milestone, we added user management functionality to the backend.
 - Updated the Express server to serve static files (uploaded images).
 
 Now our backend can accept users and store their data and images securely!
+## 🔐 Milestone 7: User Login with Password Verification
+
+In this milestone, we added secure user login functionality.
+
+### ✅ Key Accomplishments:
+- Created a `/api/users/login` endpoint.
+- Fetched users from the database using email.
+- Verified encrypted passwords using `bcrypt.compare`.
+- Returned appropriate success or error responses.
+
+This ensures only users with valid credentials can access protected resources.
