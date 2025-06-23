@@ -39,3 +39,15 @@ In this milestone, we began laying the foundation for the backend of our e-comme
 - ✅ Added CORS and JSON middleware for incoming requests
 
 We are now ready to build API endpoints and handle data storage securely!
+## 🧑‍💻 Milestone 4: Creating User Model and Controller
+
+In this milestone, we added user management functionality to the backend.
+
+### ✅ Key Accomplishments:
+- Created a **User Model** to define how user data is stored in MongoDB.
+- Built a **User Controller** to handle user registration logic.
+- Integrated **Multer** to support image file uploads (e.g., user profile pictures).
+- Defined **API Routes** to register users via `/api/users/register`.
+- Updated the Express server to serve static files (uploaded images).
+
+Now our backend can accept users and store their data and images securely!
