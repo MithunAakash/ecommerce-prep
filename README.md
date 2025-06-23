@@ -62,3 +62,13 @@ In this milestone, we added secure user login functionality.
 - Returned appropriate success or error responses.
 
 This ensures only users with valid credentials can access protected resources.
+## 🧩 Milestone 8: Product Cards & Homepage
+
+In this milestone, we focused on designing the visual layout for displaying products on the homepage.
+
+### ✅ Key Accomplishments:
+- Created a reusable `ProductCard` component using React and Tailwind CSS.
+- Displayed a list of products dynamically using the `.map()` method.
+- Implemented a responsive grid layout for a clean user interface.
+
+This marks the beginning of a beautiful shopping experience!
